@@ -7,6 +7,6 @@
 * You have options for breakfast, lunch, and dinner. Admin can enter new foods.
 * Pay online using your credit card and enjoy the most delicious dummy food.
 
-__Technology:__ React js, React Router, Firebase Auth, Heroku, Bootstrap          
-__Backend Technology:__ Node js, MongoDB
+__Technology:__ React js, React Router, Firebase Auth, Bootstrap, Media Query          
+__Backend Technology:__ Node js, MongoDB, Heroku
 
